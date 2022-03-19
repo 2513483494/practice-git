@@ -4,4 +4,7 @@ console.log('newbranch commit1')
 console.log('newbranch commit2')
 console.log('newbranch commit3')
 console.log('newbranch commit4')
+console.log('newbranch commit5')
+console.log('newbranch commit6')
+console.log('newbranch commit7')
 //20.205.243.166  github.com
